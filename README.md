@@ -1,0 +1,1 @@
+#ALX JavaScript Fundamentals  This repository showcases my solutions to the JavaScript fundamentals project from the ALX program. It features 9 core task and one advanced task, each aime at strengthening foundational JavaScript skills and enhancing coding expertise.
